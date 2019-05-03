@@ -5,7 +5,7 @@ function palindrome(str) {
  str = str.toLowerCase().replace(re, '');
 
  // Step 2. Create the FOR loop
- var len = str.length; // var len = "A man, a plan, a canal. Panama".length = 30
+ var len = str.length; // var len = "A man, a plan, a canal. Panama".length = 20
  
  for (var i = 0; i < len/2; i++) {
    if (str[i] !== str[len - 1 - i]) { // As long as the characters from each part match, the FOR loop will go on
