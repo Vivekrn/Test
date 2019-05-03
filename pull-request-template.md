@@ -17,8 +17,11 @@ other_pr_master | [link]()
 
 
 ## Todos
-- [ ] Tests
-- [ ] Documentation
+- [ ] Unit Tests
+- [ ] Functional Tests
+- [ ] Code Coverage >80%
+- [ ] Is the code Isolated?
+- [ ] Is this code peer reviewed?
 
 
 ## Deploy Notes
